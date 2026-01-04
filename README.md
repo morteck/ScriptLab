@@ -1,5 +1,7 @@
 # 🧠 ScriptLab
 
+- Under active development 
+
 **ScriptLab** is an interactive, browser-based playground for learning and testing shell scripting — inspired by Docker Playground, but focused entirely on scripting environments.  
 It provides an isolated sandbox where users can write, run, and visualize scripts safely, without affecting their local system.
 
